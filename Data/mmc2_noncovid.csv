@@ -1,0 +1,75 @@
+Clinical_Sample ID,MS_Sample ID,Case number,Organ,Subtype,L_R
+Lung (L)-001,lung_b11_133N,C1,lung, NA,L
+Lung (L)-002,lung_b11_133C,C2,lung, NA,L
+Lung (R)-003,lung_b12_132C,C3,lung, NA,R
+Lung (R)-004,lung_b12_133N,C4,lung, NA,R
+Lung (L)-005,lung_b12_133C,C5,lung, NA,L
+Lung (L)-006,lung_b13_133N,C6,lung, NA,L
+Liver-001,liver_b8_132C,C7,liver, NA, NA
+Liver-002,liver_b8_133N,C8,liver, NA, NA
+Liver-003,liver_b6_131C,C9,liver, NA, NA
+Liver-004,liver_b6_132N,C10,liver, NA, NA
+Liver-005,liver_b6_132C,C11,liver, NA, NA
+Liver-006,liver_b7_133C,C12,liver, NA, NA
+Testis-001,testis_b1_129N,C13,testis, NA, NA
+Testis-002,testis_b1_129C,C13,testis, NA, NA
+Testis-003,testis_b1_130N,C14,testis, NA, NA
+Testis-004,testis_b1_130C,C15,testis, NA, NA
+Testis-005,testis_b1_131N,C16,testis, NA, NA
+Spleen-001-a,spleen_b9_131N,C17,spleen,White&Red pulp, NA
+Spleen-002-a,spleen_b9_132N,C18,spleen,White&Red pulp, NA
+Spleen-003-a,spleen_b9_133N,C19,spleen,White&Red pulp, NA
+Spleen-004-a,spleen_b10_131C,C20,spleen,White&Red pulp, NA
+Spleen-005-a,spleen_b10_132C,C21,spleen,White&Red pulp, NA
+Spleen-006-a,spleen_b10_133C,C22,spleen,White&Red pulp, NA
+Spleen-007-a,spleen_b11_127C,C23,spleen,White&Red pulp, NA
+Spleen-001-b,spleen_b9_131C,C17,spleen,Red pulp, NA
+Spleen-002-b,spleen_b9_132C,C18,spleen,Red pulp, NA
+Spleen-003-b,spleen_b9_133C,C19,spleen,Red pulp, NA
+Spleen-004-b,spleen_b10_132N,C20,spleen,Red pulp, NA
+Spleen-005-b,spleen_b10_133N,C21,spleen,Red pulp, NA
+Spleen-006-b,spleen_b11_127N,C22,spleen,Red pulp, NA
+Spleen-007-b,spleen_b11_128N,C23,spleen,Red pulp, NA
+Kidney-002,kidney_b2_132N,C24,kidney,Cortex, NA
+Kidney-003-a,kidney_b2_132C,C25,kidney,Cortex, NA
+Kidney-004-a,kidney_b3_131N,C26,kidney,Cortex, NA
+Kidney-005-a,kidney_b3_132N,C27,kidney,Cortex, NA
+Kidney-006-a,kidney_b4_132N,C28,kidney,Cortex, NA
+Kidney-007-a,kidney_b4_133N,C29,kidney,Cortex, NA
+Kidney-008-a,kidney_b5_130C,C30,kidney,Cortex, NA
+Kidney-009,kidney_b3_133N,C31,kidney,Cortex, NA
+Kidney-010-a,kidney_b5_131C,C32,kidney,Cortex, NA
+Kidney-011-a,kidney_b5_132C,C33,kidney,Cortex, NA
+Kidney-001,kidney_b2_131C,C24,kidney,Medulla, NA
+Kidney-003-b,kidney_b2_133N,C25,kidney,Medulla, NA
+Kidney-004-b,kidney_b3_131C,C26,kidney,Medulla, NA
+Kidney-005-b,kidney_b3_132C,C27,kidney,Medulla, NA
+Kidney-006-b,kidney_b4_132C,C28,kidney,Medulla, NA
+Kidney-007-b,kidney_b4_133C,C29,kidney,Medulla, NA
+Kidney-008-b,kidney_b5_131N,C30,kidney,Medulla, NA
+Kidney-010-b,kidney_b5_132N,C32,kidney,Medulla, NA
+Kidney-011-b,kidney_b5_133N,C33,kidney,Medulla, NA
+Heart-001,heart_b16_131N,C34,heart,NA, NA
+Heart-002,heart_b14_132N,C35,heart,NA, NA
+Heart-003,heart_b15_132C,C36,heart,NA, NA
+Heart-004-a,heart_b14_133N,C37,heart,NA, NA
+Heart-005,heart_b15_133C,C38,heart,NA, NA
+Heart-006,heart_b16_133N,C39,heart,NA, NA
+Heart-007,heart_b15_132N,C40,heart,NA, NA
+Heart-008,heart_b16_133C,C41,heart,NA, NA
+Heart-004-b,heart_b14_133C,C37,heart,NA, NA
+Thyroid-001,thyroid_b17_128C,C42,thyroid,NA, NA
+Thyroid-002,thyroid_b17_129N,C43,thyroid,NA, NA
+Thyroid-003,thyroid_b17_129C,C44,thyroid,NA, NA
+Thyroid-004,thyroid_b17_131C,C45,thyroid,NA, NA
+Thyroid-005,thyroid_b17_132N,C46,thyroid,NA, NA
+Thyroid-006,thyroid_b17_132C,C47,thyroid,NA, NA
+Thyroid-007,thyroid_b17_134N,C48,thyroid,NA, NA
+Thyroid-008,thyroid_b18_127N,C49,thyroid,NA, NA
+Thyroid-009,thyroid_b18_127C,C50,thyroid,NA, NA
+Thyroid-010,thyroid_b18_128N,C51,thyroid,NA, NA
+Thyroid-011,thyroid_b18_130N,C52,thyroid,NA, NA
+Thyroid-012,thyroid_b18_130C,C53,thyroid,NA, NA
+Thyroid-013,thyroid_b18_131N,C54,thyroid,NA, NA
+Thyroid-014,thyroid_b18_133N,C55,thyroid,NA, NA
+Thyroid-015,thyroid_b18_133C,C56,thyroid,NA, NA

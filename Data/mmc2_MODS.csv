@@ -1,0 +1,56 @@
+Clinical_Sample ID,MS_Sample ID,Case number,Organ,Subtype,L_R
+P2-S13-16-R,lung_b11_130N,P2,lung,NA,R
+P2-S13-7b,liver_b8_127C,P2,liver,NA, NA
+P2-S13-7a,liver_b8_127N,P2,liver,NA, NA
+P2-S13-10-a,kidney_b2_129N,P2,liver,Renal cortex,L
+P2-S13-10-b,kidney_b2_129C,P2,kidney,Renal medulla,L
+P2-S13-23,thyroid_b17_127N,P2,thyroid,NA, NA
+P3-S14-32-L,lung_b11_130C,P3,lung,NA,L
+P3-S14-33-L,lung_b11_131N,P3,lung,NA,L
+P3-S14-17-a,spleen_b9_128N,P3,spleen,White&Red pulp, NA
+P3-S14-17-b,spleen_b9_128C,P3,spleen,Red pulp, NA
+P3-S14-15-a,liver_b7_128N,P3,liver,NA, NA
+P3-S14-15-b,liver_b7_128C,P3,liver,NA, NA
+P3-S14-15-c,liver_b7_129N,P3,liver,NA, NA
+P3-S14-6-a,heart_b14_131C,P3,heart,NA, NA
+P3-S14-6-b,heart_b14_132N,P3,heart,NA, NA
+P3-S14-22-a,kidney_b2_130N,P3,kidney,Renal cortex,L
+P3-S14-26-a,kidney_b2_131N,P3,kidney,Renal cortex, NA
+P3-S14-22-b,kidney_b2_130C,P3,kidney,Renal medulla,L
+P3-S14-41,thyroid_b17_127C,P3,thyroid,NA, NA
+P6-S18-38-L,lung_b11_132C,P6,lung,NA, NA
+P6-S18-44-R,lung_b12_127C,P6,lung,NA, NA
+P6-S18-21-a,spleen_b10_127N,P6,spleen,White&Red pulp, NA
+P6-S18-21-b,spleen_b10_127C,P6,spleen,Red pulp, NA
+P6-S18-10-a,liver_b8_129N,P6,liver,NA, NA
+P6-S18-10-b,liver_b8_129C,P6,liver,NA, NA
+P6-S18-2-a,heart_b14_128C,P6,heart,NA, NA
+P6-S18-2-b,heart_b14_129N,P6,heart,NA, NA
+P6-S18-25-a,kidney_b4_127N,P6,kidney,Renal cortex,L
+P6-S18-30-a,kidney_b4_128N,P6,kidney,Renal cortex,R
+P6-S18-25-b,kidney_b4_127C,P6,kidney,Renal medulla,L
+P6-S18-30-b,kidney_b4_128C,P6,kidney,Renal medulla,R
+P6-S18-50,thyroid_b17_130C,P6,thyroid,NA, NA
+P7-S19-37-L,lung_b12_128N,P7,lung,NA,L
+P7-S19-39-L,lung_b12_128C,P7,lung,NA,L
+P7-S19-49-R,lung_b12_129N,P7,lung,NA,R
+P7-S19-24-a,spleen_b10_128N,P7,spleen,White&Red pulp, NA
+P7-S19-24-b,spleen_b10_128C,P7,spleen,Red pulp, NA
+P7-S19-14-a,liver_b7_131N,P7,liver,NA, NA
+P7-S19-14-b,liver_b7_131C,P7,liver,NA, NA
+P7-S19-14-c,liver_b7_132N,P7,liver,NA, NA
+P7-S19-9-a,heart_b15_130N,P7,heart,NA, NA
+P7-S19-9-b,heart_b15_130C,P7,heart,NA, NA
+P7-S19-28-a,kidney_b4_129N,P7,kidney,Renal cortex,L
+P7-S19-31-a,kidney_b4_130N,P7,kidney,Renal cortex,R
+P7-S19-28-b,kidney_b4_129C,P7,kidney,Renal medulla,L
+P7-S19-31-b,kidney_b4_130C,P7,kidney,Renal medulla,R
+P7-S19-59,testis_b1_s126,P7,testis,NA, NA
+P7-S19-54,thyroid_b17_131N,P7,thyroid,NA, NA
+P13-S12-27-L,lung_b13_129N,P13,lung,NA,L
+P13-S12-33-R,lung_b13_129C,P13,lung,NA,R
+P13-S12-39,testis_b1_128N,P13,testis,NA, NA
+P14-S22-40-R,lung_b13_130N,P14,lung,NA,R
+P14-S22-42-R,lung_b13_130C,P14,lung,NA,R
+P14-S22-47,thyroid_b18_129N,P14,thyroid,NA, NA
+P24-S16-50a,thyroid_b18_131C,P24,thyroid,NA, NA
